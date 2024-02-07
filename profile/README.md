@@ -23,21 +23,21 @@
 
 <div style="display: flex; gap: 1em">
   <a href="https://www.douyin.com/user/MS4wLjABAAAA0AiK9Q4FlkTxKHo-b6Vi1ckA2Ybq-WNgJ-b5xXlULtI" target="_blank" rel="noopener noreferrer">
-    <img src="static/douyin.svg" alt="抖音">
+    <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/douyin.svg" alt="抖音">
   </a>
   <a href="https://space./bilibili.com/18429568" target="_blank" rel="noopener noreferrer">
-    <img src="static/bilibili.svg" alt="哔哩哔哩">
+    <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/bilibili.svg" alt="哔哩哔哩">
   </a>
   <a href="https://weibo.com/u/6201382716" target="_blank" rel="noopener noreferrer">
-    <img src="static/weibo.svg" alt="微博">
+    <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/weibo.svg" alt="微博">
   </a>
   <a href="https://www.xiaohongshu.com/user/profile/58e8b3b66a6a696804f89bb3" target="_blank" rel="noopener noreferrer">
-    <img src="static/xiaohongshu.svg" alt="小红书">
+    <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/xiaohongshu.svg" alt="小红书">
   </a>
   <a href="https://music.163.com/#/artist?id=12799211" target="_blank" rel="noopener noreferrer">
-    <img src="static/netease_cloud.svg" alt="网易云">
+    <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/netease_cloud.svg" alt="网易云">
   </a>
   <a href="https://5sing.kugou.com/62584043/default.html" target="_blank" rel="noopener noreferrer">
-    <img src="static/5sing.svg" alt="5sing">
+    <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/5sing.svg" alt="5sing">
   </a>
 </div>
