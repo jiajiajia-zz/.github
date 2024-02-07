@@ -21,7 +21,7 @@
 关注佳佳✨
 </h3>
 
-<div style="display: flex; gap: 1em; justify-content: center;">
+<div align="center">
   <a href="https://www.douyin.com/user/MS4wLjABAAAA0AiK9Q4FlkTxKHo-b6Vi1ckA2Ybq-WNgJ-b5xXlULtI" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/douyin.svg" alt="抖音">
   </a>
