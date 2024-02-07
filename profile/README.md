@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jiajiazi.cc" target="_blank" rel="noopener noreferrer">
-    <img width="144" height="144" style="border-radius: 50%" src="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_968374b5c68a103f8ffd3586149f23b9~c5_300x300.jpeg" alt="Avatar">
+    <img width="144" height="144" style="border-radius: 50%" src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/avatar.png" alt="Avatar">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 关注佳佳✨
 </h3>
 
-<div style="display: flex; gap: 1em">
+<div style="display: flex; gap: 1em; justify-content: center;">
   <a href="https://www.douyin.com/user/MS4wLjABAAAA0AiK9Q4FlkTxKHo-b6Vi1ckA2Ybq-WNgJ-b5xXlULtI" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/jiajiajia-zz/.github@main/profile/static/douyin.svg" alt="抖音">
   </a>
