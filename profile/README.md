@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"/>佳佳子的小宇宙</h1>
+<h1 align="center"/>佳梦同筑</h1>
 
 <p align="center">
 我相信与你终将旷日持久，于是才敢说一句来日方长。
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">
-关注佳佳✨
+关注佳佳子✨
 </h3>
 
 <div align="center">
